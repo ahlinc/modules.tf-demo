@@ -7,6 +7,4 @@ include {
 }
 
 
-inputs = {
-  
-}
+inputs = {}
